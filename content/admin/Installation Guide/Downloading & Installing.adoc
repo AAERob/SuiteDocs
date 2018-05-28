@@ -230,11 +230,12 @@ This is the administrator's email address. Ex:
 `john.smith@yourserver.com`
 ...  _More Options_
 In this section you can opt to:
-* Populate SuiteCRM with semo data
+* Populate SuiteCRM with demo data
 * Add SMTP server specifications
 * Add branding (Name and logo)
 * Set the system locale
 * Set security options
+
 Once you are happy with all the settings on the page click _Next_ to
 begin installation.
 .  The _Installation_ screen
